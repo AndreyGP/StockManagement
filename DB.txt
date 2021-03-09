@@ -1,0 +1,9 @@
+bdname  : irbis
+username: stockworcker
+password: X2x6G3a1
+ip      : 217.182.226.101
+localhost: localhost, 82.202.224.125
+username: stockworcker
+password: X2x6G3a1
+ip      : 217.182.226.101
+localhost: localhost, 82.202.224.125
