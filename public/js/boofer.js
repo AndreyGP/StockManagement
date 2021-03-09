@@ -141,7 +141,7 @@ $(document).ready(function () {
 
     //Создание сокет соединений и их обработка
     var $options = {
-        dev_id  : 1876,
+        dev_id  : 0000,
         user_id : Cookies.get('user_id'),
         user_key : Cookies.get('session'),
         node     : 'app.comet-server.ru'
